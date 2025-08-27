@@ -11,7 +11,7 @@ st.set_page_config(page_title="NitroSmart - Adubação Inteligente", layout="wid
 
 LOCAIS_PREDETERMINADOS = {
     "Usina Tanabi - SP": {"lat": -20.489485534431246, "lon": -49.54360768974638, "nome_curto": "Usina Tanabi"},
-    "Usina Santa Cruz - SP": {"lat": -20.692502938632963, "lon": -49.10884492757553, "nome_curto": "Usina Cruz Alta"},
+    "Usina Cruz Alta - SP": {"lat": -20.692502938632963, "lon": -49.10884492757553, "nome_curto": "Usina Cruz Alta"},
 }
 
 RAIO_PREVISAO_KM = 9
